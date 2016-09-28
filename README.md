@@ -23,7 +23,7 @@ The application uses the following third party libraries:
   - **NeoDatisODB** Very simple Object Database (v 1.9.2) [http://www.neodatis.org/](http://www.neodatis.org/)
   - **MiGLayout** THE Java Layout Manager for Swing (v 3.7.3) [http://www.miglayout.com/](http://www.miglayout.com/)
   - **iText** iText allows to generate PDF files (v 2.0.8) [http://itextpdf.com/](http://itextpdf.com/)
-  - ** Barbecue** Barbecue generates Barcodes (v 1.5 beta 1) [http://barbecue.sourceforge.net/](http://barbecue.sourceforge.net/)
+  - **Barbecue** Barbecue generates Barcodes (v 1.5 beta 1) [http://barbecue.sourceforge.net/](http://barbecue.sourceforge.net/)
   - **JDOM** Accessing, manipulating, and outputting XML (v 1.1) [http://www.jdom.org/](http://www.jdom.org/)
   - **The Flying Saucer Project** An XML/XHTML/CSS 2.1 Renderer (R8) [https://xhtmlrenderer.dev.java.net/](https://xhtmlrenderer.dev.java.net/)
   - **Nimbus Icon Theme** [http://gnome-look.org/](http://gnome-look.org/)
