@@ -31,6 +31,6 @@ The application uses the following third party libraries:
 
 # License
 
-Licensed under the Creative Commons 4.0 BY-SA license.
+Licensed under the [Creative Commons 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 `This program is distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.`
