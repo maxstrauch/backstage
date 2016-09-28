@@ -27,7 +27,7 @@ The application uses the following third party libraries:
   - **JDOM** Accessing, manipulating, and outputting XML (v 1.1) [http://www.jdom.org/](http://www.jdom.org/)
   - **The Flying Saucer Project** An XML/XHTML/CSS 2.1 Renderer (R8) [https://xhtmlrenderer.dev.java.net/](https://xhtmlrenderer.dev.java.net/)
   - **Nimbus Icon Theme** [http://gnome-look.org/](http://gnome-look.org/)
-  - *The program icon might be derived from an icon out of the [Open Clipart Library](https://openclipart.org/)
+  - *The program icon might be derived from an icon out of the [Open Clipart Library](https://openclipart.org/)*
 
 # License
 
