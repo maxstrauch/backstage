@@ -8,6 +8,8 @@ It can keep track of the state of studio items (e.g. microphones, recorders) and
 
 **Attention!** This software has been discontinued and there is no further development (currently). But it might serve educational purposes.
 
+**You can also read the article on by project archive [here](http://maxstrauch.github.io/projects/backstage/index.html) to gain further information.**
+
 # Download
 
 A downloadable version (most recent from 2010) of backstage can be found [here (in `dist/bs.jar`)](/dist/bs.jar?raw=true). Make sure that you also get the `dist/lib` folder along with the JAR file in the same directory since it contains all necessary libraries used by backstage.
